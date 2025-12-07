@@ -1,0 +1,8 @@
+# Ignore environment variable files
+.env
+.env.*
+
+# Node modules (common for Node.js projects)
+node_modules/
+
+/generated/prisma
